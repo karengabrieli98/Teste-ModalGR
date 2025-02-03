@@ -1,3 +1,6 @@
+
+![modalgr](https://github.com/user-attachments/assets/a9f2783b-9214-41a7-81ed-560340990f90)
+
 # Teste-ModalGR
  Este repositório contém os testes técnicos realizados para a empresa ModalGR, abordando diferentes aspectos da qualidade de software.
 
