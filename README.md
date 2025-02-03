@@ -17,14 +17,7 @@
  GitHub <br>
 
 
-## 📂 Estrutura do Repositório
- 
-📂 teste-tecnico-modalgr <br>
-│── 📁 analise-testes <br>
-│── 📁 calculo-multa <br>
-│── 📁 contagem-palavras <br>
-│── 📁 separacao-numeros <br>
-│── README.md
+
 
 ## 📌 Observações
 O código segue boas práticas de desenvolvimento e organização.
